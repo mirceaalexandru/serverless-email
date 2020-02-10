@@ -1,0 +1,15 @@
+{
+  "name": "sendEmails",
+  "version": "1.0.0",
+  "description": "Simple send email lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mircea Alexandru <http://www.alexandrumircea.ro/>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "nodemailer-smtp-transport": "^2.7.4"
+  }
+}
