@@ -9,7 +9,7 @@
   "author": "Mircea Alexandru <http://www.alexandrumircea.ro/>",
   "license": "MIT",
   "dependencies": {
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "nodemailer-smtp-transport": "^2.7.4"
   }
 }
